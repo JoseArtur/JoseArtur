@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hi!
 
+I'm José Artur
+<!-- Apresentação -->
+
+- 🔭 Currently, I'm studying Computer Engineering in FEUP/Portugal
+
+- 🌱 Studying new technologies such as Flutter, NodeJS and React Native
+
+- 🤞 Looking for great opportunities ✨✨✨
 <div align="center">
   <a href="https://github.com/joseartur">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseartur&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
