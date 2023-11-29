@@ -1,33 +1,30 @@
-## Hi!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=be9b88&height=120&section=header"/>
 
-I'm José Artur
-<!-- Apresentação -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=be9b88&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+José+Artur;I'm+21+years+old;I'm+from+Brazil;I'm+a+Software+Engineer;Be+Welcome!+:%29)
 
-- 🔭 Currently, I'm studying Computer Engineering in FEUP/Portugal
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joseartur&show_icons=true&count_private=true&hide_border=true&title_color=be9b88&icon_color=be9b88&text_color=c9d1d9&bg_color=0d1117" alt="Jose Artur github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseartur&layout=compact&hide_border=true&title_color=be9b88&text_color=be9b88&bg_color=0d1117" />
 
-- 🌱 Studying new technologies such as Flutter, NodeJS and React Native
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-be9b88?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/jose-artur-la/)
+[![Twitter](https://img.shields.io/badge/-Twitter-be9b88?style=for-the-badge&logo=twitter&logoColor=FFF)](https://twitter.com/ZeNoirr)
 
-- 🤞 Looking for great opportunities ✨✨✨
+</div>
+
+### Studying in this moment:
 <div align="center">
-  <a href="https://github.com/joseartur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseartur&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseartur&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="C++ Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-   <img align="center" alt="Flutter" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
-    <img align="center" alt="JS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+![C++](https://img.shields.io/badge/c++-be9b88?style=for-the-badge&logo=cplusplus&logoColor=FFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-be9b88?style=for-the-badge&logo=javascript&logoColor=FFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-be9b88?style=for-the-badge&logo=typescript&logoColor=FFF)
+![React](https://img.shields.io/badge/React-be9b88?style=for-the-badge&logo=react&logoColor=FFF)
+![Python](https://img.shields.io/badge/Python-be9b88?style=for-the-badge&logo=python&logoColor=FFF)
+![Java](https://img.shields.io/badge/Java-be9b88?style=for-the-badge&logo=openjdk&logoColor=FFF)
+[![Git](https://img.shields.io/badge/Git-be9b88?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) 
+![HTML5](https://img.shields.io/badge/HTML5-be9b88?style=for-the-badge&logo=html5&logoColor=FFF)
+![CSS](https://img.shields.io/badge/CSS3-be9b88?style=for-the-badge&logo=css3&logoColor=FFF)
 </div>
 
-  ##
-  
-<div> 
-  <a href = "mailto:joseartura1.2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jose-artur-la" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  
-</div>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joseartur&bg_color=0d1117&color=be9b88&line=be9b88&point=be9b88&area=true&hide_border=true)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab8977&height=120&section=footer"/>
